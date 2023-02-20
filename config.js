@@ -31,15 +31,15 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281232813734', '𝑍𝐼𝑅𝑂-𝑀𝐷', true]
+['917798293711', '𝑍𝐼𝑅𝑂-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62882007157628'
-global.nomorown = '6281232813734'
-global.nomorown1 = '6281232813734'
-global.nomorown2 = '6281232813734'//bisa nama pacarmu
-global.nomorown3 = '6281232813734' //ganti 
+global.nomorbot = '917798203711'
+global.nomorown = '917798203711'
+global.nomorown1 = '917798203711'
+global.nomorown2 = '917798203711'//bisa nama pacarmu
+global.nomorown3 = '917798203711' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
 
